@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reakshonz.iml" filepath="$PROJECT_DIR$/reakshonz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/reakshonz_android.iml" filepath="$PROJECT_DIR$/android/reakshonz_android.iml" />
+    </modules>
+  </component>
+</project>
